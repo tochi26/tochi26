@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tochi26
-- 👀 I’m interested in coding...
-- 🌱 I’m currently taking a coding adventure...
-- 💞️ I’m looking to collaborate and work with other developers...
+- 🌱 I’m currently taking a coding adventure
+- 💞️ I’m looking to collaborate and work with other developers
 - 📫 How to reach me nzewitochukwu26@gmail.com
 
 <!---
