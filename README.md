@@ -1,7 +1,7 @@
 - 👋 Hi, welcome..
 - 🌱 I’m currently taking a coding adventure
 - 💞️ I’m looking to collaborate and work with other developers
-- 📫 How to reach me nzewitochukwu26@gmail.com
+- 📫 How to reach me nzewitochukwu26@gmail.com or Tochukwuife@icloud.com
 
 <!---
 tochi26/tochi26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
