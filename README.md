@@ -1,6 +1,5 @@
 <img src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHB5dGhvbiUyMHByb2dyYW1taW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60" width="1300px"/>
-<h1 style="font-family:script;" align="center"> Hi there 
-  ,I'm Tochukwu Nzewi 👋🏿 </h1>
+<h1 style="font-family:script;" align="center"> Hi there, I'm Tochukwu Nzewi 👋🏿 </h1>
 <h3 align="center">Critical thinking and problem solving. Teamwork and collaboration. Professionalism and strong work ethic. Oral and written communications skills. Leadership.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
