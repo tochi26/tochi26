@@ -5,9 +5,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75305&size=30&center=true&vCenter=true&width=500&height=70&lines=I'm+Tochukwu+Nzewi;Software+Engineer;Open+Source+Developer+;Nice+to+meet+you..!)](https://git.io/typing-svg)
 
-Tochukwu Nzewi is a talented software engineer who stands out in the field with their exceptional skills as a full-stack engineer. With a dedication to delivering high-quality results, Tochukwu has become known for their efficiency and determination in completing projects.
-When Tochukwu Nzewi isn't coding, they have a passion for exploring new places and sharing their experiences through blogging. As an animal lover, Tochukwu has a special place in their heart for dogs and enjoys spending time with them.
-With a unique blend of technical expertise and a love for travel and adventure, Tochukwu brings a valuable perspective to any team. Their commitment to excellence and passion for software engineering make them an asset to any organization.
+---
+
+Tochukwu Nzewi, a talented full-stack software engineer with a passion for delivering quality and efficiency. An adventurer at heart, Tochukwu brings a unique perspective to their work and adds a touch of flair to every project. A valuable asset to any team, they are dedicated to excellence in software engineering
 
 ---
 
