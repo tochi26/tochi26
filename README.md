@@ -2,9 +2,9 @@
 
 
 <h1 style="font-family:script;" align="center"> Hi there, I'm Tochukwu Nzewi 👋🏿 </h1>
-Tochukwu Nzewi is a talented software engineer who stands out in the field with their exceptional skills as a full-stack engineer. With a dedication to delivering high-quality results, Tochukwu has become known for their efficiency and determination in completing projects.
+<h1 style="font-family:script;" Tochukwu Nzewi is a talented software engineer who stands out in the field with their exceptional skills as a full-stack engineer. With a dedication to delivering high-quality results, Tochukwu has become known for their efficiency and determination in completing projects.
 When Tochukwu Nzewi isn't coding, they have a passion for exploring new places and sharing their experiences through blogging. As an animal lover, Tochukwu has a special place in their heart for dogs and enjoys spending time with them.
-With a unique blend of technical expertise and a love for travel and adventure, Tochukwu brings a valuable perspective to any team. Their commitment to excellence and passion for software engineering make them an asset to any organization.
+With a unique blend of technical expertise and a love for travel and adventure, Tochukwu brings a valuable perspective to any team. Their commitment to excellence and passion for software engineering make them an asset to any organization.</h1>
 
 ---
 
