@@ -1,6 +1,7 @@
 <img src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHB5dGhvbiUyMHByb2dyYW1taW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60" width="1300px"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?Full-Stack+Engineer;Open-Source+Enthusiast;Artisan+Lover;Blogger;YouTuber;and+Script+Writer!;)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=React+Native,+Full-Stack+Engineer;Open-Source+Enthusiast;Artisan+Lover;Blogger;YouTuber;and+Script+Writer!;)](https://git.io/typing-svg)
 
 <h1 style="font-family:script;" align="center"> Hi there, I'm Tochukwu Nzewi 👋🏿 </h1>
 Tochukwu Nzewi is a talented software engineer who stands out in the field with their exceptional skills as a full-stack engineer. With a dedication to delivering high-quality results, Tochukwu has become known for their efficiency and determination in completing projects.
