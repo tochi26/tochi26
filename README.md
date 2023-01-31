@@ -3,7 +3,7 @@
 
 <h1 style="font-family:script;" align="center"> Hi there, I'm Tochukwu Nzewi 👋🏿  </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+sit+back+and+enjoy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+Explore+And+Have+Fun)](https://git.io/typing-svg)
 
 Tochukwu Nzewi is a talented software engineer who stands out in the field with their exceptional skills as a full-stack engineer. With a dedication to delivering high-quality results, Tochukwu has become known for their efficiency and determination in completing projects.
 When Tochukwu Nzewi isn't coding, they have a passion for exploring new places and sharing their experiences through blogging. As an animal lover, Tochukwu has a special place in their heart for dogs and enjoys spending time with them.
