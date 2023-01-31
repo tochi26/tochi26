@@ -25,8 +25,6 @@ With a unique blend of technical expertise and a love for travel and adventure, 
  <br>
  
 [![tochi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tochi26&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tochi26&theme=blueberry)](https://git.io/streak-stats)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tochi26&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
