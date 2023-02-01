@@ -1,13 +1,13 @@
 <img src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHB5dGhvbiUyMHByb2dyYW1taW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60" width="1300px"/>
 
 
-<h1 style="font-family:script; align="center"> Hi there 👋🏿  </h1>
+<h1 style="font-family:script;" align="center"> Hi there 👋🏿  </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75305&size=30&center=true&vCenter=true&width=500&height=70&lines=I'm+Tochukwu+Nzewi;Software+Engineer;Open+Source+Developer+;Nice+to+meet+you..!)](https://git.io/typing-svg)
 
 ---
 
-<h3 styl="font-family:script; align="center"> Tochukwu Nzewi, a talented full-stack software engineer with a passion for delivering quality and efficiency. An adventurer at heart, Tochukwu brings a unique perspective to their work and adds a touch of flair to every project. A valuable asset to any team, they are dedicated to excellence in software engineering </h3>
+<h3 styl="font-family:script;" align="center"> Tochukwu Nzewi, a talented full-stack software engineer with a passion for delivering quality and efficiency. An adventurer at heart, Tochukwu brings a unique perspective to their work and adds a touch of flair to every project. A valuable asset to any team, they are dedicated to excellence in software engineering </h3>
 
 ---
 
