@@ -3,7 +3,7 @@
 
 <h1 style="font-family:script;" align="center"> Hi there 👋🏿  </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75305&size=30&center=true&vCenter=true&width=500&height=70&lines=Hello+And +Welcome !;Software+Engineer;Full+Stack+Developer+;Nice+to+meet+you..!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+And+Welcome+!+!+!)](https://git.io/typing-svg)
 
 ---
 
