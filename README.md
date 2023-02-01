@@ -7,7 +7,7 @@
 
 ---
 
-<h3 font-family:script; align="center"> Tochukwu Nzewi, a talented full-stack software engineer with a passion for delivering quality and efficiency. An adventurer at heart, Tochukwu brings a unique perspective to their work and adds a touch of flair to every project. A valuable asset to any team, they are dedicated to excellence in software engineering </h3>
+<h3 styl="font-family:script; align="center"> Tochukwu Nzewi, a talented full-stack software engineer with a passion for delivering quality and efficiency. An adventurer at heart, Tochukwu brings a unique perspective to their work and adds a touch of flair to every project. A valuable asset to any team, they are dedicated to excellence in software engineering </h3>
 
 ---
 
