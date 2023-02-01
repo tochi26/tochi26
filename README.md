@@ -3,11 +3,11 @@
 
 <h1 style="font-family:script;" align="center"> Hi there 👋🏿  </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75305&size=30&center=true&vCenter=true&width=500&height=70&lines=I'm+Tochukwu+Nzewi;Software+Engineer;Full+Stack+Developer+;Nice+to+meet+you..!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75305&size=30&center=true&vCenter=true&width=500&height=70&lines=Hello+And +Welcome !;Software+Engineer;Full+Stack+Developer+;Nice+to+meet+you..!)](https://git.io/typing-svg)
 
 ---
 
-<h3 styl="font-family:script;" align="center">Tochukwu Nzewi, a full-stack software engineer who is dedicated to delivering top-notch results. With exceptional technical skills and a passion for exploring new places, Tochukwu brings a unique blend of expertise and adventure to their work. Committed to excellence and always striving for the best, they are a valuable asset to any organization. Get ready to experience a touch of flair and unparalleled quality with Tochukwu Nzewi on the job.</h3>
+<h3 styl="font-family:script;" align="center">A full-stack software engineer known for their dedication to delivering top-notch results and commitment to excellence. With a unique combination of technical skills and a passion for adventure, this engineer brings a valuable perspective to their work. An asset to any company, they are consistently striving to add flair and quality to every project they work on.</h3>
 
 ---
 
