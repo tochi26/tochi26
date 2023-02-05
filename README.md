@@ -7,11 +7,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=FFF+Tusj&center=true&width=380&height=50&duration=4000&pause=1000&lines=Hi%2C+My+name+is+Tochukwu.;Full+Stack+Developer.;Software+Engineer.;Blogger.;Hit+me+up+for+collaborations.;I'm+open+to+learning.;Nice+to+meet+you." alt="Typing SVG" /></a>
 </p>
 
----
+<img align='center'  src="./assets/borderseperator.gif" width='1920px'>
 
 <h3 styl="font-family:script;" align="center">A full-stack software engineer known for their dedication to delivering top-notch results and commitment to excellence. With a unique combination of technical skills and a passion for adventure, this engineer brings a valuable perspective to their work. An asset to any company, they are consistently striving to add flair and quality to every project they work on.</h3>
 
----
+<img align='center'  src="./assets/borderseperator.gif" width='1920px'>
 
 ### Connect with me
 
@@ -29,6 +29,18 @@
 [![tochi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tochi26&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tochi26&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ <h3> :star: My favorite GitHub Repos</h3>
+
+
+<img src='https://github.com/tochi26/tochi26/blob/output/github-contribution-grid-snake.svg' width='100%' object-fit='contain'>
+
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
 
 
 
