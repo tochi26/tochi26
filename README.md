@@ -13,7 +13,7 @@ My passion for continuous learning and improvement is evident in my work, and I 
 
 Some key strengths that make me stand out as a software engineer include:
 
-- 👀Proficiency in Django, Python, JavaScript, SQL AND API with a deep understanding of software development principles and methodologies
+- 👀Proficiency in Django, Python, JavaScript, SQL And API with a deep understanding of software development principles and methodologies
 - 📊Strong analytical and problem-solving skills, with the ability to quickly identify and resolve complex issues
 - 👩🏿‍💻A collaborative mindset and excellent communication skills, enabling me to work effectively with cross-functional teams
 - 🧠A dedication to continuous learning and staying up-to-date with the latest industry trends and technologies
