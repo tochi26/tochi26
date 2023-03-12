@@ -7,7 +7,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=FFF+Tusj&center=true&width=380&height=50&duration=4000&pause=1000&lines=Hi%2C+My+name+is+Tochukwu.;Full+Stack+Developer.;Software+Engineer.;Blogger.;Hit+me+up+for+collaborations.;I'm+open+to+learning.;Nice+to+meet+you." alt="Typing SVG" /></a>
 </p>
 
-As a highly skilled and motivated software engineer, I bring a wealth of experience and knowledge to the table. I am proficient in various programming languages such as Django, Python, and JavaScript, and I have a proven track record of delivering high-quality software solutions that meet and exceed client expectations.
+As a highly skilled and motivated software engineer, I bring a wealth of experience and knowledge to the table. I am proficient in various programming languages and frameworks such as Django, flask, Python, and JavaScript, and I have a proven track record of delivering high-quality software solutions that meet and exceed client expectations.
 
 My passion for continuous learning and improvement is evident in my work, and I am constantly seeking new challenges to expand my skillset. With exceptional work ethics, I consistently produce outstanding results within tight deadlines while maintaining a strong attention to detail.
 
