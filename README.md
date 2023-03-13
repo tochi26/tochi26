@@ -30,6 +30,14 @@ Some key strengths that make me stand out as a software engineer include:
 `Microsoft Technologies` `Database management` `Project management` `User experience` `Debugging` `Critical thinking` 
 `Strong researching skills` `Organization skills` `Time management` `Communication skills` `Problem solving skills`
 
+  - **📜 Languages:** • `🧙🏻 c ` • `🙎🏼‍ python ` • `👨‍🏭 javascript ` • `👨‍🔧 typescript ` • `🧚🏻‍♂️ Django ` • `👨🏻‍🎨 Flask `
+  - **💾 Databases:** • [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019) • [MongoDB](https://www.mongodb.com/) • [LiteDB](https://www.litedb.org/) • [SQLite](https://www.sqlite.org/index.html)
+  - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) • [SignalR](https://dotnet.microsoft.com/en-us/apps/aspnet/signalr) • [Web Socket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+- 🎡 **Software development ecosystem:**
+  - **📁 Code repository:** • [Git](https://git-scm.com/) • [BitBucket](https://bitbucket.org/product) • [Azure DevOps Server](https://azure.microsoft.com/en-us/services/devops/server/)
+  - **🗃 Project management:** • [Azure Boards](https://azure.microsoft.com/en-us/services/devops/boards/)
+  - **🗂 CI/CD:** • [IIS](https://www.iis.net/) • [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/) • [Github Actions](https://github.com/features/actions) • [Github Pages](https://pages.github.com/)
+
 
 
 - **🏗️ Code editors:**
