@@ -62,7 +62,7 @@ Some key strengths that make me stand out as a software engineer include:
  
  <div align="center">
     <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting !!!" >
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!!!" >
     </a>
 </div>
 
