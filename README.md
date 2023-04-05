@@ -56,13 +56,17 @@ Some key strengths that make me stand out as a software engineer include:
 
  <br>
  
-[![tochi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tochi26&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
- 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tochi26&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
  
+
+ <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tochi26&theme=algolia"/>
+ 
+ [![tochi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tochi26&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ 
+
  <div align="center">
     <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!!!" >
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!" >
     </a>
 </div>
 
