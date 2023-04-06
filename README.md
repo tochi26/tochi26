@@ -1,11 +1,14 @@
-<img src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHB5dGhvbiUyMHByb2dyYW1taW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60" width="1300px"/>
 
+<div id="top"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+
+<img src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHB5dGhvbiUyMHByb2dyYW1taW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60" width="1300px"/>
 
 <h1 style="font-family:script;" align="center"> Hi there 👋🏿  </h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=FFF+Tusj&center=true&width=380&height=50&duration=4000&pause=1000&lines=Hi%2C+My+name+is+Tochukwu.;Full+Stack+Developer.;Software+Engineer.;Blogger.;Hit+me+up+for+collaborations.;I'm+open+to+learning.;Nice+to+meet+you." alt="Typing SVG" /></a>
-</p>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Tochukwu;She/her;Software+Engineer;Blogger;Love+to+travel;Open+for+collaborations+%3C3;AI+Enthusiast" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
+</div>
 
 As a highly skilled and motivated software engineer, I bring a wealth of experience and knowledge to the table. I am proficient in various programming languages and frameworks such as Django, flask, Python, and JavaScript, and I have a proven track record of delivering high-quality software solutions that meet and exceed client expectations.
 
@@ -63,12 +66,38 @@ Some key strengths that make me stand out as a software engineer include:
  
  [![tochi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tochi26&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
+ <img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
+ 
+ <h2>:thought_balloon: Quote of the day</h2>
+<details open>
+    <summary>See quote</summary>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+    </a>
+</details>
+<h2>:zany_face: Joke of the day</h2>
+<details>
+    <summary>See joke</summary>
+    <a href="https://github.com/ABSphreak/readme-jokes">
+        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+    </a>
+</details>
+ 
+ <h2>:book: Guestbook</h2>
+<p>Leave a cool message for me or just say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a>!</p>
+<p>Or ask me anything at <a href="https://github.com/Carol42/Carol42/discussions/new/choose">Discussions</a>!</p>
+ 
 
- <div align="center">
+<div align="center">
     <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!" >
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
     </a>
 </div>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
+
+
 
  
 
