@@ -14,6 +14,10 @@ As a highly skilled and motivated software engineer, I bring a wealth of experie
 
 My passion for continuous learning and improvement is evident in my work, and I am constantly seeking new challenges to expand my skillset. With exceptional work ethics, I consistently produce outstanding results within tight deadlines while maintaining a strong attention to detail.
 
+### Blog Posts 📚 ✨
+<!-- BLOG:START -->
+- https://dev.to/official_tochy/mastering-e-commerce-development-a-step-by-step-guide-to-building-your-own-website-with-python-django-and-javascript-4hme ✨
+
 Some key strengths that make me stand out as a software engineer include:
 
 - 👀Proficiency in Django, Python, JavaScript, SQL and API with a deep understanding of software development principles and methodologies
