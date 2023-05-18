@@ -2,7 +2,7 @@
 <div id="top"></div>
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
-<img src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHB5dGhvbiUyMHByb2dyYW1taW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60" width="1300px"/>
+<img src="https://media.istockphoto.com/id/1054372778/photo/3d-rendering-big-data-and-finance.jpg?s=612x612&w=0&k=20&c=R-9GsFP1Wyx1CFMki-q1Ya94Xn2aSZHXUTY09GiOvkE=" width="1300px"/>
 
 <h1 style="font-family:script;" align="center"> Hi there 👋🏿  </h1>
 
