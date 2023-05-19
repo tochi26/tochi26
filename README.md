@@ -7,7 +7,7 @@
 <h1 style="font-family:script;" align="center"> Hi there 👋🏿  </h1>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Tochukwu;She/her;Software+Engineer;Blogger;Love+to+travel;Open+for+collaborations+%3C3;AI+Enthusiast" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=She/her;Software+Engineer;Blogger;Love+to+travel;Open+for+collaborations+%3C3;AI+Enthusiast" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
 </div>
 
 As a highly skilled and motivated software engineer, I bring a wealth of experience and knowledge to the table. I am proficient in various programming languages and frameworks such as Django, flask, Python, and JavaScript, and I have a proven track record of delivering high-quality software solutions that meet and exceed client expectations.
