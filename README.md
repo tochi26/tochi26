@@ -16,6 +16,7 @@ My passion for continuous learning and improvement is evident in my work, and I 
 ### Blog Posts 📚 ✨
 <!-- BLOG:START -->
 - [Mastering E-Commerce Development: A Step-by-Step Guide to Building Your Own Website with Python, Django and JavaScript](https://dev.to/official_tochy/mastering-e-commerce-development-a-step-by-step-guide-to-building-your-own-website-with-python-django-and-javascript-4hme)
+- [Building a Weather App with Django, Python, Bootstrap and API Key](https://dev.to/official_tochy/building-a-weather-app-with-django-python-bootstrap-and-api-key-3a4l)
 
 Some key strengths that make me stand out as a software engineer include:
 
