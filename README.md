@@ -68,8 +68,6 @@ Some key strengths that make me stand out as a software engineer include:
 
  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tochi26&theme=algolia"/>
  
- [![tochi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tochi26&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
- 
  <img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
  
  <h2>:thought_balloon: Quote of the day</h2>
