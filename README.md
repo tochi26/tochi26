@@ -9,7 +9,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=She/her;Software+Engineer;Blogger;Love+to+travel;Open+for+collaborations+%3C3;AI+/+ML+Enthusiast" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
 </div>
 
-As a highly skilled and motivated software engineer, I bring a wealth of experience and knowledge to the table. I am proficient in various programming languages and frameworks such as Django, flask, Python, JavaScript, React, Node.js, Docker, Docker Swarm and kubernetes. I have a proven track record of delivering high-quality software solutions that meet and exceed client expectations.
+As a highly skilled and motivated software engineer, I bring a wealth of experience and knowledge to the table. I am proficient in various programming languages and frameworks such as Django, flask, Python, JavaScript, React, Node.js, MERN, Docker, Docker Swarm and kubernetes. I have a proven track record of delivering high-quality software solutions that meet and exceed client expectations.
 
 My passion for continuous learning and improvement is evident in my work, and I am constantly seeking new challenges to expand my skillset. With exceptional work ethics, I consistently produce outstanding results within tight deadlines while maintaining a strong attention to detail.
 
