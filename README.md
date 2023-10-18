@@ -28,7 +28,7 @@ Some key strengths that make me stand out as a software engineer include:
 - 👩🏿‍💻A collaborative mindset and excellent communication skills, enabling me to work effectively with cross-functional teams
 - 🧠A dedication to continuous learning and staying up-to-date with the latest industry trends and technologies
 - 🖥️An unwavering commitment to delivering high-quality software solutions that meet and exceed client expectations
-- ❤️‍🔥Overall, my impressive skillset, work ethics, and passion for learning make me an invaluable asset to any organization seeking a top-performing software engineer.
+- ❤️‍🔥Overall, my impressive skillset, work ethics, and passion for learning make me an invaluable asset to any organization seeking a top-performing Software Engineer.
 
 #### What I like to disscuss about? 
 - 💬 Ask me about `microsoft stack` `web APIs` `system design` `scalability` `design patterns` `data structures` `coding speed hacks` `clean code` `requirement analysis` `choice of frameworks` and `tech culture`.
