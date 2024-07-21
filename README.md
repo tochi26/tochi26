@@ -9,9 +9,11 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=She/her;Full-Stack+Software+Engineer;Blogger;Love+to+travel;Open+for+collaborations+%3C3;AI+/+ML+Enthusiast" alt="Full-stack software engineer"></a>
 </div>
 
-As a highly skilled and motivated Software Engineer, I bring a wealth of experience and knowledge to the table. I am proficient in various programming languages and frameworks such as C, Python, Django, flask, JavaScript, React, Node.js, Mern, Docker, Docker Swarm and kubernetes. I have a proven track record of delivering high-quality software solutions that meet and exceed client expectations.
+As a highly skilled and motivated Software and Machine Learning Engineer, I bring a wealth of experience and knowledge to the table. Proficient in various programming languages and frameworks, including C, Python, Django, Flask, JavaScript, React, Node.js, MERN, Docker, Docker Swarm, and Kubernetes, I have a proven track record of delivering high-quality software solutions that meet and exceed client expectations.
 
-My passion for continuous learning and improvement is evident in my work, and I am constantly seeking new challenges to expand my skillset. With exceptional work ethics, I consistently produce outstanding results within tight deadlines while maintaining a strong attention to detail.
+My passion for continuous learning and improvement is evident in my work, driving me to constantly seek new challenges and expand my skillset. This dedication has led to the successful implementation of advanced machine learning models and algorithms, significantly enhancing the capabilities of the projects I undertake.
+
+With exceptional work ethics and a meticulous attention to detail, I consistently produce outstanding results within tight deadlines. My commitment to excellence and innovation ensures that every project I work on not only meets but often surpasses client expectations.
 
 ### Blog Posts 📚 ✨
 <!-- BLOG:START -->
@@ -21,14 +23,14 @@ My passion for continuous learning and improvement is evident in my work, and I 
 - [The Game of Kings: Unveiling the Endless Charms of Chess](https://dev.to/official_tochy/the-game-of-kings-unveiling-the-endless-charms-of-chess-2gmj )
 - [My Transformational Journey Into the World of Tech](https://dev.to/official_tochy/my-transformational-journey-into-the-world-of-tech-122c )
 
-Some key strengths that make me stand out as a software engineer include:
+Key strengths that distinguish me as a Software and Machine Learning Engineer include:
 
-- 👀Proficiency in Django, Python, JavaScript, SQL and API with a deep understanding of software development principles and methodologies
-- 📊Strong analytical and problem-solving skills, with the ability to quickly identify and resolve complex issues
-- 👩🏿‍💻A collaborative mindset and excellent communication skills, enabling me to work effectively with cross-functional teams
-- 🧠A dedication to continuous learning and staying up-to-date with the latest industry trends and technologies
-- 🖥️An unwavering commitment to delivering high-quality software solutions that meet and exceed client expectations
-- ❤️‍🔥Overall, my impressive skillset, work ethics, and passion for learning make me an invaluable asset to any organization seeking a top-performing Software Engineer.
+- Proficiency in Django, Python, JavaScript, SQL, and API development, with a deep understanding of software development principles and methodologies.
+- Strong analytical and problem-solving skills, enabling the quick identification and resolution of complex issues.
+- A collaborative mindset and excellent communication skills, facilitating effective teamwork with cross-functional teams.
+- A dedication to continuous learning, staying abreast of the latest industry trends and technologies.
+- An unwavering commitment to delivering high-quality software solutions that consistently meet and exceed client expectations.
+- A passion for innovation and excellence, making me an invaluable asset to any organization seeking a top-performing Software and Machine Learning Engineer.
 
 #### What I like to disscuss about? 
 - 💬 Ask me about `microsoft stack` `web APIs` `system design` `scalability` `design patterns` `data structures` `coding speed hacks` `clean code` `requirement analysis` `choice of frameworks` and `tech culture`.
