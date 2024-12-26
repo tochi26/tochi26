@@ -17,6 +17,7 @@ With exceptional work ethics and a meticulous attention to detail, I consistentl
 
 ### Blog Posts 📚 ✨
 <!-- BLOG:START -->
+- [Operationalising Machine Learning on SageMaker ](https://dev.to/official_tochy/operationalising-machine-learning-on-sagemaker-1k7)
 - [Image Classification Using Deep Learning ](https://medium.com/@nzewitochukwu26/deep-learning-in-computer-vision-and-nlp-from-neural-networks-to-model-deployment-ba8b3fa35353)
 - [Building My First Machine Learning Workflow: The Journey of "Scones Unlimited"](https://dev.to/official_tochy/building-my-first-machine-learning-workflow-the-journey-of-scones-unlimited-3nfk)
 - [Developing My First ML Workflow: A Journey into Machine Learning on SageMaker](https://dev.to/official_tochy/developing-my-first-ml-workflow-a-journey-into-machine-learning-on-sagemaker-3fj2)
