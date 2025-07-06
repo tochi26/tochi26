@@ -55,11 +55,6 @@ Key strengths that distinguish me as a Software and Machine Learning Engineer in
   - **🗃 Project management:** • [Azure Boards](https://azure.microsoft.com/en-us/services/devops/boards/)
   - **🗂 CI/CD:** • [IIS](https://www.iis.net/) • [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/) • [Github Actions](https://github.com/features/actions) • [Github Pages](https://pages.github.com/)
 
-
-
-- **🏗️ Code editors:**
-<a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a><a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a>
-
 ### Connect with me
 
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white"/>](https://twitter.com/official_tochy)
