@@ -1,7 +1,7 @@
 <div id="top"></div>
 <div align="center" ><img width="100%" alt="welcome to my profile!!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
-<img src="https://media.istockphoto.com/id/1403644222/photo/illustration-demonstrates-the-routing-of-ip-packets-throughout-the-internet-a-lan-computer.jpg?s=612x612&w=0&k=20&c=MCdnCecf2rfzLnsnivu5DOXL-6Ata-Sq6MGLvmXngPc=" width="1300px"/>
+<img src="https://media.istockphoto.com/id/2226258601/vector/robot-or-cyborg-with-ai-holds-earth-artificial-general-intelligence-or-agi-logo-ai-agent.jpg?s=2048x2048&w=is&k=20&c=zMTkvtwNegNs4QSGUlKnG5w5ps9Zjcl2pUkPlhJIZLg=" width="1300px"/>
 
 <h1 style="font-family:script;" align="center"> Hi there 👋🏿  </h1>
 
@@ -9,14 +9,17 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=She/her;Full-Stack+Software+Engineer;Blogger;Love+to+travel;Open+for+collaborations+%3C3;AI+/+ML+Engineer" alt="Full-stack software engineer"></a>
 </div>
 
-As a highly skilled and motivated Software and Machine Learning Engineer, I bring a wealth of experience and knowledge to the table. Proficient in various programming languages and frameworks, including C, Python, Django, Flask, JavaScript, React, Node.js, MERN, Docker, Docker Swarm, and Kubernetes, I have a proven track record of delivering high-quality software solutions that meet and exceed client expectations.
+### Software Engineer • Machine Learning Engineer • Agentic AI Engineer
 
-My passion for continuous learning and improvement is evident in my work, driving me to constantly seek new challenges and expand my skillset. This dedication has led to the successful implementation of advanced machine learning models and algorithms, significantly enhancing the capabilities of the projects I undertake.
+I design and build production-grade intelligent systems that learn, reason, act, and scale. With a strong foundation in backend engineering, cloud infrastructure, and applied machine learning, I specialize in turning research ideas and raw data into real-world AI products—from APIs and ML pipelines to autonomous agentic systems powered by LLMs.
 
-With exceptional work ethics and a meticulous attention to detail, I consistently produce outstanding results within tight deadlines. My commitment to excellence and innovation ensures that every project I work on not only meets but often surpasses client expectations.
+My technical toolkit spans Python, JavaScript/TypeScript, Django, Flask, React, Node.js, MERN, and modern DevOps & cloud tooling including Docker, Kubernetes, and distributed systems. I have hands-on experience across the entire ML lifecycle: data engineering, feature engineering, model training, hyperparameter tuning, deployment, monitoring, and continuous improvement.
 
+Driven by relentless curiosity and execution excellence, I thrive in complex, fast-moving environments where innovation matters. I’m deeply committed to building scalable, reliable, and high-impact technology—always with precision, performance, and real-world value at the core.
 ### Blog Posts 📚 ✨
 <!-- BLOG:START -->
+- [AgentsVille Trip Planning](https://medium.com/@nzewitochukwu26/agentsville-how-i-built-a-self-correcting-ai-city-of-autonomous-travel-agents-abe6d6968502?postPublishedType=initial)
+- [Meet AI](https://medium.com/@nzewitochukwu26/meet-ai-the-platform-that-doesnt-just-schedule-meetings-it-thinks-with-you-e8f8141a5807?postPublishedType=initial)
 - [Operationalising Machine Learning on SageMaker ](https://dev.to/official_tochy/operationalising-machine-learning-on-sagemaker-1k7)
 - [Image Classification Using Deep Learning ](https://medium.com/@nzewitochukwu26/deep-learning-in-computer-vision-and-nlp-from-neural-networks-to-model-deployment-ba8b3fa35353)
 - [Building My First Machine Learning Workflow: The Journey of "Scones Unlimited"](https://dev.to/official_tochy/building-my-first-machine-learning-workflow-the-journey-of-scones-unlimited-3nfk)
@@ -28,32 +31,80 @@ With exceptional work ethics and a meticulous attention to detail, I consistentl
 - [The Game of Kings: Unveiling the Endless Charms of Chess](https://dev.to/official_tochy/the-game-of-kings-unveiling-the-endless-charms-of-chess-2gmj )
 - [My Transformational Journey Into the World of Tech](https://dev.to/official_tochy/my-transformational-journey-into-the-world-of-tech-122c )
 
-Key strengths that distinguish me as a Software and Machine Learning Engineer include:
+🔑 Key Strengths
 
-- Proficiency in Django, Python, JavaScript, SQL, and API development, with a deep understanding of software development principles and methodologies.
-- Strong analytical and problem-solving skills, enabling the quick identification and resolution of complex issues.
-- A collaborative mindset and excellent communication skills, facilitating effective teamwork with cross-functional teams.
-- A dedication to continuous learning, staying abreast of the latest industry trends and technologies.
-- An unwavering commitment to delivering high-quality software solutions that consistently meet and exceed client expectations.
-- A passion for innovation and excellence, making me an invaluable asset to any organization seeking a top-performing Software and Machine Learning Engineer.
+### What distinguishes me as a Software, Machine Learning & Agentic AI Engineer:
+
+* Expertise in Python, TypeScript/JavaScript, SQL, with strong proficiency in Django, Flask, Node.js, React, and API-first system design.
+
+* Deep hands-on experience across the entire ML lifecycle: data engineering, feature engineering, model training, hyperparameter tuning, deployment, monitoring, and optimization.
+
+* Practical experience building LLM-powered and agentic systems including tool-using agents, multi-agent workflows, and autonomous AI pipelines.
+
+* Strong background in cloud-native and distributed systems, with Docker, Kubernetes, CI/CD, and production deployment on modern cloud infrastructure.
+
+* Exceptional analytical thinking and problem-solving ability for breaking down complex systems and shipping reliable solutions.
+
+* Proven collaboration and communication skills in cross-functional, fast-paced engineering teams.
+
+* A relentless commitment to continuous learning, staying current with AI, backend, DevOps, and scalable architectures.
+
+* Unwavering focus on engineering excellence, performance, and real-world impact.
 
 #### What I like to disscuss about? 
-- 💬 Ask me about `microsoft stack` `web APIs` `system design` `scalability` `design patterns` `data structures` `coding speed hacks` `clean code` `requirement analysis` `choice of frameworks` and `tech culture`.
+- 💬 Ask me about `agentic ai` · `llms` · `system design` · `scalability` · `distributed systems` · `ml pipelines` · `api architecture` · `cloud engineering` ·
+`design patterns` · `data structures & algorithms` · `clean code` · `framework selection` · `engineering culture` · `ai in production`.
 
 ---
 
-#### What my skill set looks like?
+🧠 My Core Skill Set
 
-`Microsoft Technologies` `Database management` `Project management` `User experience` `Debugging` `Critical thinking` 
-`Strong researching skills` `Organization skills` `Time management` `Communication skills` `Problem solving skills`
+`Backend Engineering` · `Machine Learning Engineering` · `Agentic AI Systems` · `LLM Integration` ·
+`Cloud & DevOps` · `Database Design & Management` · `System Architecture` ·
+`Research & Experimentation` · `Debugging & Profiling` · `Critical Thinking` ·
+`Time Management` · `Technical Communication` · `Product-Oriented Engineering` · `Problem Solving`
 
-  - **📜 Languages:** • `🧙🏻 c ` • `🙎🏼‍ python ` • `👨‍🏭 javascript ` • `👨‍🔧 typescript ` • `🧚🏻‍♂️ Django ` • `👨🏻‍🎨 Flask `
-  - **💾 Databases:** • [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019) • [MongoDB](https://www.mongodb.com/) • [LiteDB](https://www.litedb.org/) • [SQLite](https://www.sqlite.org/index.html)
-  - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) • [SignalR](https://dotnet.microsoft.com/en-us/apps/aspnet/signalr) • [Web Socket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
-- 🎡 **Software development ecosystem:**
-  - **📁 Code repository:** • [Git](https://git-scm.com/) • [BitBucket](https://bitbucket.org/product) • [Azure DevOps Server](https://azure.microsoft.com/en-us/services/devops/server/)
-  - **🗃 Project management:** • [Azure Boards](https://azure.microsoft.com/en-us/services/devops/boards/)
-  - **🗂 CI/CD:** • [IIS](https://www.iis.net/) • [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/) • [Github Actions](https://github.com/features/actions) • [Github Pages](https://pages.github.com/)
+📜 Languages & Core Tech:
+• 🐍 Python
+• ⚡ JavaScript
+• 🛠️ TypeScript
+
+🧩 Frameworks & Runtimes:
+• 🧚🏽‍♂️ Django
+• 🎨 Flask
+• ⚙️ Node.js
+• ⚛️ React
+
+💾 Databases & Data Stores:
+• PostgreSQL
+• MongoDB
+• SQLite
+
+🤖 Machine Learning & Agentic AI:
+• ML Pipelines • Feature Engineering • Model Training & Tuning
+• Model Deployment & Monitoring • LLM Integration
+• Tool-Using Agents • Multi-Agent Systems • Autonomous Workflows
+
+🔌 Communication Protocols & APIs:
+• RESTful APIs
+• WebSockets
+• Event-Driven Architectures
+
+🚀 DevOps, Cloud & Infrastructure:
+• Docker
+• Kubernetes
+• CI/CD Pipelines
+• Cloud-Native Deployment
+
+🎡 Software Development Ecosystem:
+
+📁 Code Repositories & Version Control:
+• Git
+• GitHub
+
+🗂 CI/CD & Automation:
+• GitHub Actions
+• Automated Testing & Deployment
 
 ### Connect with me
 
@@ -67,8 +118,7 @@ Key strengths that distinguish me as a Software and Machine Learning Engineer in
 ![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,vue,react,mongodb,mysql,py,vim,docker,kubernetes,md,git,figma,bash,cloudflare,jquery,nginx,vscode&theme=light)
 
  <br>
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tochi26&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
  
 
  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tochi26&theme=algolia"/>
