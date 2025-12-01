@@ -118,10 +118,6 @@ Driven by relentless curiosity and execution excellence, I thrive in complex, fa
 ![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,vue,react,mongodb,mysql,py,vim,docker,kubernetes,md,git,figma,bash,cloudflare,jquery,nginx,vscode&theme=light)
 
  <br>
-
- <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tochi26&theme=algolia"/>
- 
- <img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
  
  <h2>:thought_balloon: Quote of the day</h2>
 <details open>
