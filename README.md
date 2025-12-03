@@ -3,8 +3,11 @@
 <h1 style="font-family:script;" align="center"> Hi there 👋🏿  </h1>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=She/her;Full-Stack+Software+Engineer;AI+Agentic+Engineer;Love+to+travel;Open+for+collaborations+%3C3;AI+/+ML+Engineer" alt="Full-stack software engineer"></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=1E90FF&size=30&center=true&vCenter=true&width=450&lines=She/her;Full-Stack+Software+Engineer;AI+Agentic+Engineer;Love+to+travel;Open+for+collaborations+%3C3;AI+/+ML+Engineer" alt="Full-stack software engineer">
+  </a>
 </div>
+
 
 ### Software Engineer • Machine Learning Engineer • Agentic AI Engineer
 
