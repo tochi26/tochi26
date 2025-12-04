@@ -108,9 +108,7 @@ Driven by relentless curiosity and execution excellence, I thrive in complex, fa
 
 ### Connect with me
 
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white"/>](https://twitter.com/official_tochy)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/tochukwu-nzewi-988684186/)
-[<img src="https://img.shields.io/badge/YouTube-FF0000?&logo=youtube&logoColor=white"/>](https://www.youtube.com/)
 
 
 ## 🔧 Technologies
