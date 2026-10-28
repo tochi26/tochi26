@@ -16,20 +16,6 @@ I design and build production-grade intelligent systems that learn, reason, act,
 My technical toolkit spans Python, JavaScript/TypeScript, Django, Flask, React, Node.js, MERN, and modern DevOps & cloud tooling including Docker, Kubernetes, and distributed systems. I have hands-on experience across the entire ML lifecycle: data engineering, feature engineering, model training, hyperparameter tuning, deployment, monitoring, and continuous improvement.
 
 Driven by relentless curiosity and execution excellence, I thrive in complex, fast-moving environments where innovation matters. I’m deeply committed to building scalable, reliable, and high-impact technology—always with precision, performance, and real-world value at the core.
-### Blog Posts 📚 ✨
-<!-- BLOG:START -->
-- [AgentsVille Trip Planning](https://medium.com/@nzewitochukwu26/agentsville-how-i-built-a-self-correcting-ai-city-of-autonomous-travel-agents-abe6d6968502?postPublishedType=initial)
-- [Meet AI](https://medium.com/@nzewitochukwu26/meet-ai-the-platform-that-doesnt-just-schedule-meetings-it-thinks-with-you-e8f8141a5807?postPublishedType=initial)
-- [Operationalising Machine Learning on SageMaker ](https://dev.to/official_tochy/operationalising-machine-learning-on-sagemaker-1k7)
-- [Image Classification Using Deep Learning ](https://medium.com/@nzewitochukwu26/deep-learning-in-computer-vision-and-nlp-from-neural-networks-to-model-deployment-ba8b3fa35353)
-- [Building My First Machine Learning Workflow: The Journey of "Scones Unlimited"](https://dev.to/official_tochy/building-my-first-machine-learning-workflow-the-journey-of-scones-unlimited-3nfk)
-- [Developing My First ML Workflow: A Journey into Machine Learning on SageMaker](https://dev.to/official_tochy/developing-my-first-ml-workflow-a-journey-into-machine-learning-on-sagemaker-3fj2)
-- [Navigating the Maze of Machine Learning Engineering: My Journey](https://dev.to/official_tochy/navigating-the-maze-of-machine-learning-engineering-my-journey-27cm)
-- [Mastering E-Commerce Development: A Step-by-Step Guide to Building Your Own Website with Python, Django and JavaScript](https://dev.to/official_tochy/mastering-e-commerce-development-a-step-by-step-guide-to-building-your-own-website-with-python-django-and-javascript-4hme)
-- [Building a Weather App with Django, Python, Bootstrap and API Key](https://dev.to/official_tochy/building-a-weather-app-with-django-python-bootstrap-and-api-key-3a4l)
-- [The Power of Chatbots: Enhancing User Experiences with OpenAI](https://dev.to/official_tochy/the-power-of-chatbots-enhancing-user-experiences-with-openai-53b )
-- [The Game of Kings: Unveiling the Endless Charms of Chess](https://dev.to/official_tochy/the-game-of-kings-unveiling-the-endless-charms-of-chess-2gmj )
-- [My Transformational Journey Into the World of Tech](https://dev.to/official_tochy/my-transformational-journey-into-the-world-of-tech-122c )
 
 🔑 Key Strengths
 
